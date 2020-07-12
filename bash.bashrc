@@ -4,4 +4,4 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
 	}
 fi
 
-PS1='\[\e[1;34m\]termuxblack > \[\e[0;37m\]'
+PS1='\[\e[1;34m\] @binaries:~# \[\e[0;37m\]'
